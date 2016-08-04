@@ -1,0 +1,58 @@
+_repo: The-Sea-Wolf_1074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: "The Sea-Wolf is a 1904 psychological adventure novel by American novelist\
+  \ Jack London. The book's protagonist, Humphrey van Weyden, is a literary critic\
+  \ who is a survivor of an ocean collision and who comes under the dominance of Wolf\
+  \ Larsen, the powerful and amoral sea captain who rescues him. Its first printing\
+  \ of forty thousand copies was immediately sold out before publication on the strength\
+  \ of London's previous The Call of the Wild. Ambrose Bierce wrote, \"The great thing—and\
+  \ it is among the greatest of things—is that tremendous creation, Wolf Larsen...\
+  \ the hewing out and setting up of such a figure is enough for a man to do in one\
+  \ lifetime... The love element, with its absurd suppressions, and impossible proprieties,\
+  \ is awful.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1074'
+  wikidata: Q1196857
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sealers (Persons) -- Fiction'
+- !lcsh 'Ship captains -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sea stories'
+- !lcsh 'Arctic regions -- Fiction'
+- !lcsh 'Sealing ships -- Fiction'
+- GITenberg
+title: The Sea-Wolf
+url: http://www.gutenberg.org/ebooks/1074
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Loup_des_mers
+- https://ar.wikipedia.org/wiki/%D8%B0%D8%A6%D8%A8_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1
+- https://pt.wikipedia.org/wiki/O_Lobo_do_Mar
+- https://pt.wikiquote.org/wiki/O_Lobo-do-Mar
+- https://hy.wikipedia.org/wiki/%D4%BE%D5%B8%D5%BE%D5%A1%D5%A3%D5%A1%D5%B5%D5%AC%D5%A8_(%D5%BE%D5%A5%D5%BA)
+- https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%DA%AF_%D8%AF%D8%B1%DB%8C%D8%A7
+- https://de.wikipedia.org/wiki/Der_Seewolf
+- https://es.wikipedia.org/wiki/El_lobo_de_mar_(novela)
+- https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D1%8F%D1%82_%D0%B2%D1%8A%D0%BB%D0%BA
+- https://en.wikipedia.org/wiki/The_Sea-Wolf
+- https://pl.wikipedia.org/wiki/Wilk_morski
+- https://ru.wikiquote.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BA_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BA_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://el.wikipedia.org/wiki/%CE%9F_%CE%B8%CE%B1%CE%BB%CE%B1%CF%83%CF%83%CF%8C%CE%BB%CF%85%CE%BA%CE%BF%CF%82
+- https://ro.wikipedia.org/wiki/Lupul_de_mare
+- https://tr.wikipedia.org/wiki/Deniz_Kurdu
+- https://sv.wikipedia.org/wiki/Varg-Larsen
