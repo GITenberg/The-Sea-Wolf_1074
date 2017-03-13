@@ -1,5 +1,8 @@
 _repo: The-Sea-Wolf_1074
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -19,6 +22,8 @@ description: "The Sea-Wolf is a 1904 psychological adventure novel by American n
   \ the hewing out and setting up of such a figure is enough for a man to do in one\
   \ lifetime... The love element, with its absurd suppressions, and impossible proprieties,\
   \ is awful.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1074#The-Sea-Wolf
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
 identifiers:
